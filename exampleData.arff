@@ -1,0 +1,7 @@
+@relation exampleData
+@attribute a1 real
+@attribute a2 real
+@attribute class real
+@data
+.9, 0.6, 0
+-1, 0.4, .2
